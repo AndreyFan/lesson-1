@@ -81,6 +81,7 @@ public class Test {
         byte byteVal = 4;
         short shortVal = 56;
         float floatVal = 4.7333436F;
+        //---------------------------------
 
     }
 }
